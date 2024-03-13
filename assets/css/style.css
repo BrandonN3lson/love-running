@@ -25,6 +25,10 @@ h1, h2, h3 {
     letter-spacing: 2px;
     color: #252525
 }
+/*Utility class*/
+.hidden-heading {
+    display: none;
+}
 
 hr {
     border: 1px solid #3a3a3a;
