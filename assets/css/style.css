@@ -368,7 +368,7 @@ margin: 5px 0 20px 0;
         order: 1;
     }
 
-    #benefits-menta {
+    #benefits-mental > div {
         align-self: flex-start;
     }
 
